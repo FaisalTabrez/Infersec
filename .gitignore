@@ -1,0 +1,17 @@
+# Ignore backups created when converting submodules to regular folders
+.git_submodule_backups/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Byte-compiled / cached files
+*.egg-info/
